@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HousesApi/bin
+/.vs
+/.idea/.idea.HousesApi/.idea
+/HousesApi/Properties
+/HousesApi/obj
